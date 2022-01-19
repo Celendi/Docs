@@ -1,0 +1,36 @@
+site_name: Celendi Docs
+copyright: Copyright &copy; 2020 - 2022 Celendi
+theme:
+  name: material
+  features:
+    - header.autohide
+    - navigation.tabs
+    - navigation.instant
+    - navigation.top
+    - toc.integrate
+  logo: https://raw.githubusercontent.com/Celendi/images/main/Celendi_RED.png
+  favicon: https://raw.githubusercontent.com/Celendi/images/main/Celendi_RED.png
+  palette: 
+    - media: "(prefers-color-scheme: light)" 
+      scheme: default
+      primary: red
+      toggle:
+        icon: material/brightness-4
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate 
+      primary: red
+      toggle:
+        icon: material/brightness-7
+        name: Switch to light mode
+extra:
+  generator: false
+  social:
+    - icon: fontawesome/brands/discord
+      link: https://discord.com/invite/GWdnwwYMjZ
+      name: Celendi on Discord
+    - icon: fontawesome/brands/twitter 
+      link: https://twitter.com/celendibot
+      name: Celendi on Twitter
+plugins:
+  - search
