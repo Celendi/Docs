@@ -1,15 +1,13 @@
 site_name: Celendi Documentation
 copyright: Copyright &copy; 2020 - 2022 Celendi
+#repo_url: https://github.com/celendi/docs
+#repo_name: celendi/docs
 theme:
   name: material
-  features:
-    - header.autohide
-    - navigation.tabs
-    - navigation.instant
-    - navigation.top
-    - toc.integrate
   logo: https://raw.githubusercontent.com/Celendi/images/main/Celendi_RED.png
   favicon: https://raw.githubusercontent.com/Celendi/images/main/Celendi_RED.png
+  icon:
+    repo: fontawesome/brands/git-alt
   palette: 
     - media: "(prefers-color-scheme: light)" 
       scheme: default
@@ -23,14 +21,26 @@ theme:
       toggle:
         icon: material/brightness-7
         name: Switch to light mode
+  features:
+    - header.autohide
+    - navigation.tabs
+    - navigation.instant
+    - navigation.top
+    - toc.integrate
 extra:
   generator: false
   social:
+    - icon: fontawesome/brands/github-alt
+      link: https://github.com/celendi
+      name: Celendi on Github
     - icon: fontawesome/brands/discord
       link: https://discord.com/invite/GWdnwwYMjZ
       name: Celendi on Discord
     - icon: fontawesome/brands/twitter 
       link: https://twitter.com/celendibot
       name: Celendi on Twitter
+  analytics:
+    provider: google
+    property: G-846VTN70CP
 plugins:
   - search
