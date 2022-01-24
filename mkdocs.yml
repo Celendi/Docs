@@ -1,14 +1,14 @@
 site_name: Celendi Documentation
 copyright: Copyright &copy; 2020 - 2022 Celendi
-repo_url: https://github.com/celendi/docs
-repo_name: Celendi/Docs
-edit_uri: ""
+#repo_url: https://github.com/celendi/docs
+#repo_name: Celendi/Docs
+#edit_uri: ""
 theme:
   name: material
   logo: https://raw.githubusercontent.com/Celendi/images/main/Celendi_RED.png
   favicon: https://raw.githubusercontent.com/Celendi/images/main/Celendi_RED.png
-  icon:
-    repo: fontawesome/brands/github
+  #icon:
+  #  repo: fontawesome/brands/github
   palette: 
     - media: "(prefers-color-scheme: light)" 
       scheme: default
