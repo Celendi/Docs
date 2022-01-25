@@ -1,4 +1,4 @@
-# Welcome to Celendi
+# Welcome to Celendi's Documentation
 
 As this is coming soon, here are some helpful links for now!
 
