@@ -19,4 +19,4 @@ Each category of commands has their own page which can be found on the sidebar.
 **Required**: &lt;foo&gt; means that you _must_ use this argument for the command to work  
 **Many**: &lt;foos...&gt; or \[foos...\] means that you can specify more than one. Massban is an example of a command that uses this. If you wish you use an argument with more than one word, use "double quotes" to let the bot you know what you want.
 
-Additionally, the bot uses what are called _converters_ which makes specifying roles, members, channels etc easy and fool-proof. When asked to specify a member, you can provide it a mention \(pinging the person\), an id, their name or their nickname. This principle works for every single command where applicable.
+Additionally, the bot uses what are called _converters_ which makes specifying roles, members, channels etc easy and fool-proof. When asked to specify a member, you can provide it a mention \(pinging the person\) or an id. This principle works for every single command where applicable.

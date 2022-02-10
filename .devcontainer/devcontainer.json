@@ -28,6 +28,6 @@
 	"remoteUser": "vscode",
 	"features": {
 		"git": "latest",
-		"golang": "latest"
+		"python": "latest"
 	}
 }
