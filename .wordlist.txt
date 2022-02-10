@@ -1,2 +1,6 @@
 Celendi
+celendi
 CelendiBot
+github
+Massban
+foos
