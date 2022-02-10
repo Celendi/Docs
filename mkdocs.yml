@@ -12,9 +12,8 @@ docs_dir: docs
 theme:
   name: material
   custom_dir: overrides # https://www.mkdocs.org/user-guide/styling-your-docs/#using-the-theme-custom_dir
-
   palette:
-    - scheme: slate
+    scheme: slate
 
   # Don't include MkDocs' JavaScript
   include_search_page: false
@@ -26,6 +25,24 @@ theme:
   - toc.integrate
   logo: https://raw.githubusercontent.com/Celendi/images/main/Celendi_RED.png
   favicon: https://raw.githubusercontent.com/Celendi/images/main/Celendi_RED.png
+
+plugins:
+- search
+- minify:
+    minify_html: true
+    htmlmin_opts:
+      # https://htmlmin.readthedocs.io/en/latest/reference.html#main-functions
+      remove_comments: true
+      remove_all_empty_space: true
+      reduce_boolean_attributes: true
+      remove_optional_attribute_quotes: true
+      convert_charrefs: true
+    minify_css: true
+    css_files:
+    - assets/stylesheets/custom.css
+    #minify_js: true
+    #js_files:
+    #- assets/javascripts/custom.js
 
 markdown_extensions:
 - markdown.extensions.admonition # Highlighted warning/info blocks
@@ -65,24 +82,6 @@ markdown_extensions:
 #- pymdownx.smartsymbols # Easy symbols syntax (trademark, copyright, arrows, ...)
 #- pymdownx.snippets # Insert Markdown files into others
 #- pymdownx.tilde # Subscript <sub> and strikethrough <del> text via tilde ~
-
-plugins:
-- search
-- minify:
-    minify_html: true
-    htmlmin_opts:
-      # https://htmlmin.readthedocs.io/en/latest/reference.html#main-functions
-      remove_comments: true
-      remove_all_empty_space: true
-      reduce_boolean_attributes: true
-      remove_optional_attribute_quotes: true
-      convert_charrefs: true
-    minify_css: true
-    css_files:
-    - assets/stylesheets/custom.css
-    #minify_js: true
-    #js_files:
-    #- assets/javascripts/custom.js
 
 extra:
   generator: false

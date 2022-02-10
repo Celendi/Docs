@@ -2,7 +2,7 @@
 
 **Useful links**
 
-| [Homepage](https://celendi.me)| [Invite link](https://celendi.me/invite) | [Support server](https://celendi.me/discord) |
+| [Homepage](https://celendi.me) | [Invite link](https://celendi.me/invite) | [Support server](https://celendi.me/discord) |
 
 ### How do I read the documentation?
 
