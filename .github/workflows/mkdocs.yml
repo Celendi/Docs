@@ -1,4 +1,4 @@
-name: Build test and quality checks
+name: Build & Deploy
 on: 
   push:
     branches: [ main ]
