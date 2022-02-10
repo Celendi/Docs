@@ -5,12 +5,21 @@ on:
       - master 
       - main
 jobs:
-  deploy:
+  Actions:
+    # https://github.com/actions/virtual-environments
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: actions/setup-python@v2
-        with:
-          python-version: 3.x
-      - run: pip install mkdocs-material 
-      - run: mkdocs gh-deploy --force
+    - name: Clone Celendi-Docs repository
+      id: clone
+      # https://github.com/actions/checkout/releases
+      uses: actions/checkout@v2
+    - name: Install MkDocs
+      id: mkdocs
+      if: always() && steps.python.outcome == 'success'
+      run: |
+        pip3 install -U pip wheel setuptools
+        pip3 install -Ur requirements.txt
+    - name: Deploy Celendi-Docs
+      id: deploy
+      if: always() && steps.mkdocs.outcome == 'success'
+      run: mkdocs gh-deploy
