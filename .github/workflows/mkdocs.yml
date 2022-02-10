@@ -29,4 +29,4 @@ jobs:
     - name: Deploy Celendi-Docs
       id: deploy
       if: always() && steps.mkdocs.outcome == 'success'
-      run: mkdocs gh-deploy
+      run: mkdocs gh-deploy --force
