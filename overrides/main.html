@@ -1,0 +1,37 @@
+{% extends "base.html" %}
+{% block extrahead %}
+  {% set title = config.site_name %}
+  {% if page and page.meta and page.meta.title %}
+    {% set title = title ~ " - " ~ page.meta.title %}
+  {% elif page and page.title and not page.is_homepage %}
+    {% set title = title ~ " - " ~ page.title | striptags %}
+  {% endif %}
+
+  <meta property="og:locale" content="en_US">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="Celendi">
+  <meta property="og:title" content="{{ title }}">
+  {% if page and page.meta and page.meta.description %}
+    <meta property="og:description" content="{{ page.meta.description }}">
+  {% elif config.site_description %}
+    <meta property="og:description" content="{{ config.site_description }}">
+  {% endif %}
+  {% if page.canonical_url %}
+    <meta property="og:url" content="{{ page.canonical_url }}">
+  {% endif %}
+  <meta property="og:image" content="https://raw.githubusercontent.com/Celendi/images/main/Celendi_RED.png">
+
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:site" content="@CelendiBot">
+  <meta name="twitter:creator" content="@CelendiBot">
+  <meta name="twitter:title" content="{{ title }}">
+  {% if page and page.meta and page.meta.description %}
+    <meta name="twitter:description" content="{{ page.meta.description }}">
+  {% elif config.site_description %}
+    <meta name="twitter:description" content="{{ config.site_description }}">
+  {% endif %}
+  <meta name="twitter:image" content="https://raw.githubusercontent.com/Celendi/images/main/Celendi_RED.png">
+{% endblock %}
+{% block announce %}
+  <a href="https://twitter.com/CelendiBot">Follow <b>@CelendiBot</b> on <span class="twemoji">{% include ".icons/fontawesome/brands/twitter.svg" %}</span> Twitter for updates!</a>
+{% endblock %}

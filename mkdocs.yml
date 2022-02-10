@@ -1,69 +1,100 @@
 site_name: Celendi Documentation
-copyright: Copyright &copy; 2020 - 2022 Celendi
-#repo_url: https://github.com/celendi/docs
-#repo_name: Celendi/Docs
-#edit_uri: ""
+site_url: https://celendi.me/docs
+site_description: Official documentation for Celendi
+site_author: Celendi
+copyright: Copyright © 2020-2022 Celendi
+
+#repo_name: DietPi-Docs
+#repo_url: https://github.com/MichaIng/DietPi-Docs
+#edit_uri: edit/dev/docs/
+docs_dir: docs
+
 theme:
   name: material
+  custom_dir: overrides # https://www.mkdocs.org/user-guide/styling-your-docs/#using-the-theme-custom_dir
+
+  palette:
+    - scheme: slate
+
+  # Don't include MkDocs' JavaScript
+  include_search_page: false
+  search_index_only: true
+
+  language: en
+  features:
+  - navigation.tabs
+  - toc.integrate
   logo: https://raw.githubusercontent.com/Celendi/images/main/Celendi_RED.png
   favicon: https://raw.githubusercontent.com/Celendi/images/main/Celendi_RED.png
-  #icon:
-  #  repo: fontawesome/brands/github
-  palette: 
-    - media: "(prefers-color-scheme: light)" 
-      scheme: default
-      primary: red
-      toggle:
-        icon: material/weather-night
-        name: Switch to dark mode
-    - media: "(prefers-color-scheme: dark)"
-      scheme: slate 
-      primary: red
-      toggle:
-        icon: material/weather-sunny
-        name: Switch to light mode
-  features:
-    - header.autohide
-    - navigation.tabs
-    - navigation.instant
-    - navigation.top
-    - toc.integrate
+
+markdown_extensions:
+- markdown.extensions.admonition # Highlighted warning/info blocks
+- markdown.extensions.attr_list # Set custom HTML attributes {: }
+- markdown.extensions.codehilite: # Highlight syntax in code blocks
+    guess_lang: false # Language must always be defined for syntax highlighting
+- markdown.extensions.footnotes # Footnotes [^1]
+- markdown.extensions.meta # Define meta data (page title and description) at the top of the Markdown document
+- markdown.extensions.smarty # Automatically convert dashes, underscore, three-dots and quotes to text symbols
+- markdown.extensions.tables # Tables
+- markdown.extensions.toc: # Add HTML id attribute to headers
+    permalink: true # Headers are links to themselves
+- pymdownx.betterem: # More intuitive emphasis handling
+    smart_enable: all # Even smarter for both (asterisk and underscore) syntax => GitHub-like
+- pymdownx.details # Collapsible details blocks
+- pymdownx.emoji:
+    emoji_index: !!python/name:materialx.emoji.twemoji
+    emoji_generator: !!python/name:materialx.emoji.to_svg
+- pymdownx.keys # Keyboard key symbols
+- pymdownx.magiclink: # Auto-links non angle bracket URLs and email addresses and allows to shorten and visualise Git repo links
+    repo_url_shortener: true
+    repo_url_shorthand: true
+- pymdownx.superfences # Indended code blocks, e.g. within lists, admonition, details or tabbed blocks
+- pymdownx.tabbed # Tabbed content blocks
+
+#  Markdown extensions which could be used in the future
+#
+#- markdown.extensions.abbr # Abbreviations <abbr>
+#- markdown.extensions.def_list # Definition lists
+#- markdown.markdown.md_in_html # Allow Markdown syntax inside of HTML tags
+#- pymdownx.arithmatex # LaTeX math term support
+#- pymdownx.caret # Superscript <sup> and insert <ins> via caret ^
+#- pymdownx.critic # Comment, highlight, add or strikethrough text
+#- pymdownx.highlight # Configure code highlighting for all code definitions, fenced, inline and blocked by indentation
+#- pymdownx.inlinehilite # Highlight syntax in inline code
+#- pymdownx.mark # Mark text <mark> via ==text==
+#- pymdownx.smartsymbols # Easy symbols syntax (trademark, copyright, arrows, ...)
+#- pymdownx.snippets # Insert Markdown files into others
+#- pymdownx.tilde # Subscript <sub> and strikethrough <del> text via tilde ~
+
+plugins:
+- search
+- minify:
+    minify_html: true
+    htmlmin_opts:
+      # https://htmlmin.readthedocs.io/en/latest/reference.html#main-functions
+      remove_comments: true
+      remove_all_empty_space: true
+      reduce_boolean_attributes: true
+      remove_optional_attribute_quotes: true
+      convert_charrefs: true
+    minify_css: true
+    css_files:
+    - assets/stylesheets/custom.css
+    #minify_js: true
+    #js_files:
+    #- assets/javascripts/custom.js
+
 extra:
   generator: false
   social:
-    - icon: fontawesome/brands/github
-      link: https://github.com/celendi
-      name: Celendi on Github
-    - icon: fontawesome/brands/discord
-      link: https://discord.com/invite/GWdnwwYMjZ
-      name: Celendi on Discord
-    - icon: fontawesome/brands/twitter 
-      link: https://twitter.com/celendibot
-      name: Celendi on Twitter
-  analytics:
-    provider: google
-    property: G-846VTN70CP
-plugins:
-  - search
-markdown_extensions:
-  - admonition
-  - pymdownx.details
-  - attr_list
-  - md_in_html
-  - pymdownx.superfences
-  - pymdownx.highlight:
-      anchor_linenums: true
-  - pymdownx.inlinehilite
-  - pymdownx.snippets
-  - pymdownx.tabbed:
-      alternate_style: true 
-  - tables  
-  - pymdownx.critic
-  - pymdownx.caret
-  - pymdownx.keys
-  - pymdownx.mark
-  - pymdownx.tilde
-  - def_list
-  - pymdownx.tasklist:
-      custom_checkbox: true
-  - meta
+  - icon: fontawesome/brands/github
+    link: https://github.com/celendi
+  - icon: fontawesome/solid/home
+    link: https://celendi.me
+  - icon: fontawesome/brands/twitter
+    link: https://twitter.com/celendibot
+
+extra_css:
+- assets/stylesheets/custom.css
+
+
