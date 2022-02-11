@@ -4,12 +4,12 @@
 
 [Homepage](https://celendi.me) | [Invite link](https://celendi.me/invite) | [Support server](https://celendi.me/discord)
 
-### How do I read the documentation?
+## How do I read the documentation?
+
+### Understanding arguments
 
 !!! danger
     Do not literally type out &lt;   &gt; [   ] \| etc
-
-## Understanding arguments
 
 Each category of commands has their own page which can be found on the sidebar.  
 **Aliases**: \[foo\|bar\] means that you can use either foo or bar  
