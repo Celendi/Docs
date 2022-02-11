@@ -2,15 +2,14 @@
 
 **Useful links**
 
-| [Homepage](https://celendi.me) | [Invite link](https://celendi.me/invite) | [Support server](https://celendi.me/discord) |
+[Homepage](https://celendi.me) | [Invite link](https://celendi.me/invite) | [Support server](https://celendi.me/discord)
 
 ### How do I read the documentation?
 
 !!! danger
     Do not literally type out &lt;   &gt; [   ] \| etc
 
-!!! info
-    When referencing commands, Mod commands are in **bold**.
+## Understanding arguments
 
 Each category of commands has their own page which can be found on the sidebar.  
 **Aliases**: \[foo\|bar\] means that you can use either foo or bar  
