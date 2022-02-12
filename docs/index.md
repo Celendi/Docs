@@ -17,5 +17,6 @@ Each category of commands has their own page which can be found on the sidebar.
 **Optional with default**: \[foo='muted'\] means that it will default to the value if you don't specify anything else  
 **Required**: &lt;foo&gt; means that you _must_ use this argument for the command to work  
 **Many**: &lt;foos...&gt; or \[foos...\] means that you can specify more than one. Massban is an example of a command that uses this.
+**Mentions:** When there is a @ or a # before the argument it means that you need to specify the arguments as a **mention**.
 
 Additionally, the bot uses what are called _converters_ which makes specifying roles, members, channels etc easy and fool-proof. When asked to specify a member, you can provide it a mention \(pinging the person\) or an id. This principle works for every single command where applicable.
