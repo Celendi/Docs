@@ -1,24 +1,23 @@
-/* Colours */
 :root {
     --md-accent-fg-color: #ef5552;
     --md-primary-fg-color: #ef5552;
-    --md-primary-fg-color--dark: #461616;
+    --md-primary-fg-color--dark: #16171d;
 }
 
 :root>* {
-    --md-footer-bg-color: #cc0000;
-    --md-footer-bg-color--dark: #461616;
+    --md-footer-bg-color: #ef5552;
+    --md-footer-bg-color--dark: #16171d;
 }	
 
 @media screen and (max-width: 76.1875em) {
     .md-nav--primary .md-nav__title {
-        background-color: #cc0000 !important;
-        border-bottom: 1px solid #cc0000 !important;
-        color: #000 !important;
+        background-color: #ef5552 !important;
+        border-bottom: 1px solid #ef5552 !important;
+        color: rgb(255, 255, 255) !important;
     }
 
     .md-nav--primary .md-nav__title a:hover {
-        color: #461616;
+        color: #ef5552;
     }
 }
 
@@ -40,7 +39,7 @@
 }
 
 .md-header a:is(:focus,:hover) {
-    color: #461616;
+    color: #ef5552;
 }
 
 /* Primary navigation */
@@ -51,7 +50,7 @@
 }
 
 .md-tabs a:is(:focus,:hover) {
-    color: #461616;
+    color: #ef5552;
 }
 
 /* Tables */
@@ -73,7 +72,7 @@
 /* Footer */
 
 .md-footer {
-    color: #000;
+    color: rgb(255, 255, 255);
 }
 
 .md-footer__inner a:is(:focus,:hover) {
