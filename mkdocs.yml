@@ -4,9 +4,9 @@ site_description: Official documentation for Celendi
 site_author: Celendi
 copyright: Copyright © 2020-2022 Celendi
 
-#repo_name: DietPi-Docs
-#repo_url: https://github.com/MichaIng/DietPi-Docs
-#edit_uri: edit/dev/docs/
+#repo_name: Celendi-Docs
+#repo_url: https://github.com/celendi/docs
+#edit_uri: edit/main/docs/
 docs_dir: docs
 
 theme:
