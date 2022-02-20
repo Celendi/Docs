@@ -22,6 +22,7 @@ theme:
   language: en
   features:
   - navigation.tabs
+  - navigation.instant
   - toc.integrate
   logo: https://raw.githubusercontent.com/Celendi/images/main/Celendi_RED.png
   favicon: https://raw.githubusercontent.com/Celendi/images/main/Celendi_RED.png
