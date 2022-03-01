@@ -4,16 +4,16 @@ site_description: Official documentation for Celendi
 site_author: Celendi
 copyright: Copyright © 2020-2022 Celendi
 
-repo_name: Celendi/Docs
-repo_url: https://github.com/celendi/docs
-edit_uri: edit/main/docs/
-docs_dir: docs
+# repo_name: Celendi/Docs
+# repo_url: https://github.com/celendi/docs
+# edit_uri: edit/main/docs/
+# docs_dir: docs
 
 theme:
   name: material
   custom_dir: overrides # https://www.mkdocs.org/user-guide/styling-your-docs/#using-the-theme-custom_dir
-  icon:
-    repo: fontawesome/brands/github
+  # icon:
+  #   repo: fontawesome/brands/github
   palette:
     scheme: slate
 
