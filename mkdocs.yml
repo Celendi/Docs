@@ -26,8 +26,8 @@ theme:
   - navigation.tabs
   - navigation.instant
   - toc.integrate
-  logo: https://raw.githubusercontent.com/Celendi/images/main/Celendi_RED.png
-  favicon: https://raw.githubusercontent.com/Celendi/images/main/Celendi_RED.png
+  logo: https://raw.githubusercontent.com/Celendi/brand-kit/main/Logos/Bot%20Logos/Celendi_RED.webp
+  favicon: https://raw.githubusercontent.com/Celendi/brand-kit/main/Logos/Bot%20Logos/Celendi_RED.webp
 
 plugins:
 - search
