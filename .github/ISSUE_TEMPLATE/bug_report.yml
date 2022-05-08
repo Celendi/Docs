@@ -62,7 +62,7 @@ body:
     id: device
     attributes:
       label: Device
-      description: On which device do you have the bug? Only fill this out if your on mobile!
+      description: On which device do you have the bug? Only fill this out if you're on mobile!
     validations:
       required: false
   - type: textarea
