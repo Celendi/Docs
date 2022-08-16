@@ -99,4 +99,6 @@ extra:
 extra_css:
 - assets/stylesheets/custom.css
 
-
+nav:
+    - Home: 'index.md'
+    - Legal: 'legal.md'
