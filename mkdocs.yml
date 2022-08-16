@@ -89,10 +89,10 @@ markdown_extensions:
 extra:
   generator: false
   social:
-  - icon: fontawesome/brands/github
-    link: https://github.com/celendi
   - icon: fontawesome/solid/home
     link: https://celendi.xyz
+  - icon: fontawesome/brands/github
+    link: https://github.com/celendi
   - icon: fontawesome/brands/twitter
     link: https://twitter.com/celendibot
 
