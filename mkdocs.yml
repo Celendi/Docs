@@ -1,33 +1,28 @@
-site_name: Celendi Documentation
-site_url: https://docs.celendi.xyz
-site_description: Official documentation for Celendi
+site_name: CelendiDocs
+site_url: https://docs.celendi.xyz/
+site_description: Official documentation pages for Celendi 
 site_author: Celendi
-copyright: Copyright © 2020-2022 Celendi
-
-# repo_name: Celendi/Docs
-# repo_url: https://github.com/celendi/docs
-# edit_uri: edit/main/docs/
-# docs_dir: docs
+copyright: Copyright © 2022 Celendi | Documentation Distributed under <a target="_blank"
+           href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank" rel="noopener">CC BY-NC-ND</a>
 
 theme:
   name: material
-  custom_dir: overrides # https://www.mkdocs.org/user-guide/styling-your-docs/#using-the-theme-custom_dir
-  # icon:
-  #   repo: fontawesome/brands/github
+  custom_dir: overrides
+  logo: https://raw.githubusercontent.com/Celendi/Brand-Kit/main/Logos/Bot%20Logos/Celendi_RED.webp
+  favicon: https://raw.githubusercontent.com/Celendi/Brand-Kit/main/Logos/Bot%20Logos/Celendi_RED.webp
+  
   palette:
     scheme: slate
-
-  # Don't include MkDocs' JavaScript
-  include_search_page: false
-  search_index_only: true
-
-  language: en
+    #primary: red
   features:
-  - navigation.tabs
-  - navigation.instant
-  - toc.integrate
-  logo: https://raw.githubusercontent.com/Celendi/brand-kit/main/Logos/Bot%20Logos/Celendi_RED.webp
-  favicon: https://raw.githubusercontent.com/Celendi/brand-kit/main/Logos/Bot%20Logos/Celendi_RED.webp
+    - header.autohide
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.sections
+    - toc.integrate
+    - navigation.top
+    - announce.dismiss
 
 plugins:
 - search
@@ -43,15 +38,26 @@ plugins:
     minify_css: true
     css_files:
     - assets/stylesheets/custom.css
-    #minify_js: true
-    #js_files:
-    #- assets/javascripts/custom.js
+
+extra:
+  generator: false
+  consent:
+    title: Cookie consent
+    actions:
+      - accept
+      - reject
+    description: >-
+      We use cookies to recognize your repeated visits and preferences, as well
+      as to measure the effectiveness of our documentation and whether users
+      find what they're searching for. With your consent, you're helping us to
+      make our documentation better.
+
+extra_css:
+- assets/stylesheets/custom.css
 
 markdown_extensions:
 - markdown.extensions.admonition # Highlighted warning/info blocks
 - markdown.extensions.attr_list # Set custom HTML attributes {: }
-- markdown.extensions.codehilite: # Highlight syntax in code blocks
-    guess_lang: false # Language must always be defined for syntax highlighting
 - markdown.extensions.footnotes # Footnotes [^1]
 - markdown.extensions.meta # Define meta data (page title and description) at the top of the Markdown document
 - markdown.extensions.smarty # Automatically convert dashes, underscore, three-dots and quotes to text symbols
@@ -68,44 +74,5 @@ markdown_extensions:
 - pymdownx.magiclink: # Auto-links non angle bracket URLs and email addresses and allows to shorten and visualise Git repo links
     repo_url_shortener: true
     repo_url_shorthand: true
-- pymdownx.superfences # Indended code blocks, e.g. within lists, admonition, details or tabbed blocks
-- pymdownx.tabbed # Tabbed content blocks
-
-#  Markdown extensions which could be used in the future
-#
-#- markdown.extensions.abbr # Abbreviations <abbr>
-#- markdown.extensions.def_list # Definition lists
-#- markdown.markdown.md_in_html # Allow Markdown syntax inside of HTML tags
-#- pymdownx.arithmatex # LaTeX math term support
-#- pymdownx.caret # Superscript <sup> and insert <ins> via caret ^
-#- pymdownx.critic # Comment, highlight, add or strikethrough text
-#- pymdownx.highlight # Configure code highlighting for all code definitions, fenced, inline and blocked by indentation
-#- pymdownx.inlinehilite # Highlight syntax in inline code
-#- pymdownx.mark # Mark text <mark> via ==text==
-#- pymdownx.smartsymbols # Easy symbols syntax (trademark, copyright, arrows, ...)
-#- pymdownx.snippets # Insert Markdown files into others
-#- pymdownx.tilde # Subscript <sub> and strikethrough <del> text via tilde ~
-
-extra:
-  generator: false
-  social:
-  - icon: fontawesome/solid/home
-    link: https://celendi.xyz
-  - icon: fontawesome/brands/github
-    link: https://github.com/celendi
-  - icon: fontawesome/brands/twitter
-    link: https://twitter.com/celendibot
-  consent:
-    title: Cookie consent
-    description: >-
-      We use cookies to recognize your repeated visits and preferences, as well
-      as to measure the effectiveness of our documentation and whether users
-      find what they're searching for. With your consent, you're helping us to
-      make our documentation better.
-
-extra_css:
-- assets/stylesheets/custom.css
-
-nav:
-    - Home: 'index.md'
-    - Legal: 'legal.md'
+- pymdownx.superfences # Indented code blocks, e.g. within lists, admonition, details or tabbed blocks, implies pymdownx.highlight
+- pymdownx.tabbed

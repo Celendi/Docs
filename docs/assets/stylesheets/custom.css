@@ -1,3 +1,4 @@
+/* Colours */
 :root {
     --md-accent-fg-color: #ef5552;
     --md-primary-fg-color: #ef5552;
@@ -39,7 +40,7 @@
 }
 
 .md-header a:is(:focus,:hover) {
-    color: #ef5552;
+    color: #16171d;
 }
 
 /* Primary navigation */
@@ -50,7 +51,13 @@
 }
 
 .md-tabs a:is(:focus,:hover) {
-    color: #ef5552;
+    color: #16171d;
+}
+
+/* Images: Reduce max width to 95% of container width */
+.md-typeset img,
+.md-typeset svg {
+    max-width: 95%;
 }
 
 /* Tables */
@@ -84,5 +91,5 @@
 }
 
 .md-footer-meta a:is(:focus,:hover) {
-    color: #ef5552 !important;
+    color: #ef5552  !important;
 }
