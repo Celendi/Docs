@@ -10,7 +10,7 @@
 | welcome embed set <#channel\|id> &lt;embed object&gt; | ?welcome embed set 890590927171764235 <br>{title: '{user} joined the server!'} | Set the welcome/leave embed by specifying a raw embed object. |
 | welcome embed remove <#channel\|id> | ?welcome embed remove #general | Remove the welcome/leave embed. |
 | welcome tags | ?welcome tags | List all the tags you can use in the welcome/leave message/embed. |
-| welcome role &lt;set\|remove&gt; <@role\|id> | ?welcome role remove 840320567893688400 | Set/remove the welcome/leave role. |
+| welcome role &lt;set\|remove&gt; <&#64;role\|id> | ?welcome role remove 840320567893688400 | Set/remove the welcome/leave role. |
 | welcome panel | ?welcome panel | Open the welcome/leave panel. |
 
 ## Tags
