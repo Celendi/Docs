@@ -1,3 +1,6 @@
+---
+description: How to use Celendi's welcomer
+---
 # Welcomer
 
 ## Commands
