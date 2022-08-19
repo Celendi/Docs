@@ -1,3 +1,7 @@
+---
+title: CelendiPrivacy
+description: Celendi's Privacy Policy
+---
 # Privacy Policy
 
 ## Introduction

@@ -1,3 +1,7 @@
+---
+title: CelendiTOS
+description: Celendi's Terms Of Service
+---
 # Terms of Service
 
 ## Terms
