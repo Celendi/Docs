@@ -1,5 +1,5 @@
 ---
-title: Welcome to Celendi!
+title: Home
 description: How to get started with Celendi, learn about Celendi commands and get an overview about the bot!
 ---
 # Welcome to Celendi
