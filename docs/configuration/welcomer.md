@@ -1,11 +1,11 @@
 ---
 description: How to use Celendi's welcomer
 ---
-# Welcomer
+# Welcomer Module
 
 ## Commands
 
-| Name | Example | Usage |
+| Usage | Example | Description |
 | :--- | :--- | :--- |
 | welcome channel &lt;set\|remove&gt; <#channel\|id> | ?welcome channel set #general | Set/remove the welcome/leave channel. |
 | welcome message set <#channel\|id> &lt;message...&gt; | ?welcome message set 890590927171764235 Hello! Welcome to Celendi! | Set the welcome/leave message. | 
