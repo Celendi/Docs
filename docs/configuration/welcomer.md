@@ -26,7 +26,7 @@ These are the tags that can be used in the welcomer
 | Tag      | Description | Output |
 | :------- | :---------- | :------- |
 | {target} | Mention of the target. | &#64;Iliannnn |
-| {target.id} | Id of the target. | 597445640129085440 |
+| {target.id} | ID of the target. | 597445640129085440 |
 | {target.username} | Username of the target. | Iliannnn |
 | {target.discriminator} | Discriminator of the target. | 0001 |
 | {target.tag} | Tag of the target. | Iliannnn#0001 |
@@ -37,7 +37,7 @@ These are the tags that can be used in the welcomer
 #### **Server Tags**
 | Tag      | Description | Output |
 | :------- | :---------- | :------- |
-| {server.id} | Id of the server. | 837028015706996806 |
+| {server.id} | ID of the server. | 837028015706996806 |
 | {server.name} | Name of the server. | Celendi Support |
 | {server.icon} | Icon hash of the server. | a_50611c4d825a46db3195224498757205 |
 | {server.iconURL} | Image URL of the server's icon. | https://cdn.discordapp.com/icons/837028015706996806/a_50611c4d825a46db3195224498757205.gif |
