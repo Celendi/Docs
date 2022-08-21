@@ -22,34 +22,40 @@ These are the tags that can be used in the welcomer
 !!! info
     These are only for the welcomer, they dont work anywhere else in the bot
 
-#### Target Tags   
-`{target}` - Mention of the target.  
-`{target.id}` - Id of the target.  
-`{target.username}` - Username of the target.  
-`{target.discriminator}` - Discriminator of the target.  
-`{target.tag}` - Tag of the target.  
-`{target.avatar}` - Hash of the target's avatar.  
-`{target.avatarURL}` - Image URL of the target's avatar.
+#### **Target Tags**   
+| Tag      | Description | Output |
+| :------- | :---------- | :------- |
+| {target} | Mention of the target. | &#64;Iliannnn |
+| {target.id} | Id of the target. | 597445640129085440 |
+| {target.username} | Username of the target. | Iliannnn |
+| {target.discriminator} | Discriminator of the target. | 0001 |
+| {target.tag} | Tag of the target. | Iliannnn#0001 |
+| {target.avatar} | Hash of the target's avatar. | a_c92deb6c3f7558f62caf2ba485c42087 |
+| {target.avatarURL} | Image URL of the target's avatar. | https://cdn.discordapp.com/avatars/597445640129085440/a_c92deb6c3f7558f62caf2ba485c42087.gif |
 <br>
 
-#### Server Tags  
-`{server.id}` - Id of the server.  
-`{server.name}` - Name of the server where the actions came from.  
-`{server.icon}` - Icon hash of the server.  
-`{server.iconURL} `- Image URL of the server's icon.  
-`{server.verificationLevel}` - Level of the server.  
-`{server.owner}` - Mention of the server's owner.  
-`{server.ownerId}` - Id of the server's owner.  
-`{server.ownerName}` - Name of the server's owner.  
-`{server.ownerDiscriminator}` - Discriminator of the server's owner.  
-`{server.ownerTag}` - Tag of the server's owner.  
-`{server.ownerAvatar}` - Avatar hash of the server's owner.  
-`{server.ownerAvatarURL}` - Image URL of the avatar of the server's owner.  
-`{server.memberCount}` - The amount of members in the server.  
+#### **Server Tags**
+| Tag      | Description | Output |
+| :------- | :---------- | :------- |
+| {server.id} | Id of the server. | 837028015706996806 |
+| {server.name} | Name of the server. | Celendi Support |
+| {server.icon} | Icon hash of the server. | a_50611c4d825a46db3195224498757205 |
+| {server.iconURL} | Image URL of the server's icon. | https://cdn.discordapp.com/icons/837028015706996806/a_50611c4d825a46db3195224498757205.gif |
+| {server.verificationLevel} | Level of the server. | HIGH |
+| {server.owner} | Mention of the server's owner. | &#64;Zyztem |
+| {server.ownerId} | Id of the server's owner. | 785276955645313035 |
+| {server.ownerName} | Name of the server's owner. | Zyztem |
+| {server.ownerDiscriminator} | Discriminator of the server's owner. | 1992 |
+| {server.ownerTag} | Tag of the server's owner. | Zyztem#1992 |
+| {server.ownerAvatar} | Avatar hash of the server's owner. | 7db60decd3a6109f48715a448639c6a6 |
+| {server.ownerAvatarURL} | Image URL of the avatar of the server's owner. | https://cdn.discordapp.com/avatars/785276955645313035/7db60decd3a6109f48715a448639c6a6.png |
+| {server.memberCount} | The amount of members in the server. | 39 |
 <br>
 
 ####  Action Tags
-`{action.name}`  - The name of the action.  
-`{action.namePast}` - The name of the action in the past.  
-`{action.timestamp}` - Timestamp of the time the user joined/left.  
-`{action.at}` - Time the user joined/left.  
+| Tag     | Description | Output |
+| :------ | :---------- | :------- |
+| {action.name} | The name of the action. | join |
+| {action.namePast} | The name of the action in the past. | joined |
+| {action.timestamp} | Timestamp of the time the user joined/left. | 1577836800 |
+| {action.at} | Time the user joined/left. | Jan 1, 2020, 12:00:00 AM |
