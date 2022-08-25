@@ -5,8 +5,7 @@ site_author: Celendi
 repo_url: https://github.com/celendi/docs
 repo_name: Celendi/Docs
 edit_uri: ""
-copyright: Copyright © 2022 Celendi | Documentation Distributed under <a target="_blank"
-           href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank" rel="noopener">CC BY-NC-ND</a>
+copyright: Copyright © 2022 Celendi | Documentation Distributed under <a target="_blank" href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank" rel="noopener">CC BY-NC-ND</a> | <a href="#__consent">Change cookie settings</a>
 
 theme:
   name: material
