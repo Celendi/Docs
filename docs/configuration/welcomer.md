@@ -1,5 +1,5 @@
 ---
-description: How to use Celendi's welcomer
+description: How to configure Celendi's Welcomer
 ---
 # Welcomer Module
 
@@ -7,13 +7,13 @@ description: How to use Celendi's welcomer
 
 | Usage | Example | Description |
 | :--- | :--- | :--- |
-| welcome channel &lt;set\|remove&gt; <#channel\|id> | ?welcome channel set #general | Set/remove the welcome/leave channel. |
-| welcome message set <#channel\|id> &lt;message...&gt; | ?welcome message set 890590927171764235 Hello! Welcome to Celendi! | Set the welcome/leave message. | 
-| welcome message remove <#channel\|id> | ?welcome message remove #general | Remove the welcome/leave message. |
-| welcome embed set <#channel\|id> &lt;embed object&gt; | ?welcome embed set 890590927171764235 <br>{title: '{user} joined the server!'} | Set the welcome/leave embed by specifying a raw embed object. |
-| welcome embed remove <#channel\|id> | ?welcome embed remove #general | Remove the welcome/leave embed. |
+| welcome channel &lt;set\|remove&gt; &lt;#channel\|id&gt; | ?welcome channel set #general | Set/remove the welcome/leave channel. |
+| welcome message set &lt;#channel\|id&gt; &lt;message...&gt; | ?welcome message set 890590927171764235 Hello! Welcome to Celendi! | Set the welcome/leave message. | 
+| welcome message remove &lt;#channel\|id&gt; | ?welcome message remove #general | Remove the welcome/leave message. |
+| welcome embed set &lt;#channel\|id&gt; &lt;embed object&gt; | ?welcome embed set 890590927171764235 <br>{title: '{user} joined the server!'} | Set the welcome/leave embed by specifying a raw embed object. |
+| welcome embed remove &lt;#channel\|id&gt; | ?welcome embed remove #general | Remove the welcome/leave embed. |
 | welcome tags | ?welcome tags | List all the tags you can use in the welcome/leave message/embed. |
-| welcome role &lt;set\|remove&gt; <&#64;role\|id> | ?welcome role remove 840320567893688400 | Set/remove the welcome/leave role. |
+| welcome role &lt;set\|remove&gt; &lt;&#64;role\|id&gt;| ?welcome role remove 840320567893688400 | Set/remove the welcome/leave role. |
 | welcome panel | ?welcome panel | Open the welcome/leave panel. |
 
 ## Tags
