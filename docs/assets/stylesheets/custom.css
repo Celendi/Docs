@@ -40,7 +40,7 @@
 }
 
 .md-header a:is(:focus,:hover) {
-    color: #16171d;
+    color: #fff;
 }
 
 /* Primary navigation */
@@ -51,7 +51,7 @@
 }
 
 .md-tabs a:is(:focus,:hover) {
-    color: #16171d;
+    color: #fff;
 }
 
 /* Images: Reduce max width to 95% of container width */
@@ -83,7 +83,7 @@
 }
 
 .md-footer__inner a:is(:focus,:hover) {
-    color: #16171d;
+    color: #fff;
 }
 
 .md-footer-meta {
