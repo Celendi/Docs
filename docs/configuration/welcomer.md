@@ -2,6 +2,9 @@
 description: How to configure Celendi's Welcomer
 ---
 # Welcomer Module
+Manage the welcome/leave channel, message and role
+!!! warning ""
+    These commands require you to have the `MANAGE_GUILD` permission
 
 ## Commands
 

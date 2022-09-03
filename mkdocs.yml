@@ -5,7 +5,7 @@ site_author: Celendi
 repo_url: https://github.com/celendi/docs
 repo_name: Celendi/Docs
 edit_uri: ""
-copyright: Copyright © 2022 Celendi | Documentation Distributed under <a target="_blank" href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank" rel="noopener">CC BY-NC-ND</a> | <a href="#__consent">Change cookie settings</a>
+copyright: Copyright © 2022 <a target="_blank" href="https://celendi.xyz" target="_blank" rel="noopener">Celendi</a>  | Documentation Distributed under <a target="_blank" href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank" rel="noopener">CC BY-NC-ND</a> | <a href="#__consent">Change cookie settings</a>
 
 theme:
   name: material
@@ -63,6 +63,8 @@ nav:
   - Home: index.md
   - Configuration:
     - DM's Module: configuration/dms.md
+    - Logs Module: configuration/logs.md
+    - Prefix Module: configuration/prefix.md 
     - Welcomer Module: configuration/welcomer.md
   - Information:
     - Information Module: information/info.md

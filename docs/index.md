@@ -14,7 +14,7 @@ Celendi is a multi-functional discord bot designed to be the only bot you need i
 
 ### Understanding arguments
 
-!!! danger
+!!! danger ""
     Do not literally type out &lt;   &gt; [   ] \| etc
 
 Each category of commands has their own page which can be found on the sidebar.  

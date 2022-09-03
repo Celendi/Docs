@@ -2,7 +2,9 @@
 description: How to configure Celendi's DMs
 ---
 # DMs Module
-
+Toggle whether to send direct messages when someone is kicked/banned/warned or muted or change the message the should be sent to the user.
+!!! warning ""
+    These commands require you to have the `MANAGE_GUILD` permission
 ## Commands
 
 | Usage | Example | Description |
