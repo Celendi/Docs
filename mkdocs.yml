@@ -26,7 +26,7 @@ theme:
     - navigation.sections
     - toc.integrate
     - navigation.top
-    - announce.dismiss
+    #- announce.dismiss
 
 plugins:
 - search
