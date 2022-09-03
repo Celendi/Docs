@@ -1,5 +1,5 @@
 ---
-description: How to change Celendi's prefix
+description: How to change Celendi's Prefix
 ---
 
 # Prefix Module
