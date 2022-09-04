@@ -33,5 +33,3 @@ Please click [here](https://docs.celendi.xyz/legal/privacy) to read our Privacy 
 If you violate any Terms listed above, the "service" developers reserve the right to issue you a warning regarding the violation or immediately suspend your access to the Service with or without reasons, depending on the offense.
 
 While you have the right to appeal your suspension to the "service", we do not guarantee that the "service" providers will approve your appeal, and do not guarantee that you'll be 100% whitelisted from all the "service" features, you may be denied to access certain features of the "service" in respect with your prior blacklisted reasons.
-message.txt
-6 KB
