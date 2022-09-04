@@ -27,7 +27,7 @@ Your continued use of the Service after we announce any modifications to the Ter
 This Term of Service is effective as of August 6th, 2022 and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being changed on one of the Official Releases of the “service”.
 
 ## Privacy Policy
-Please click [here](https://docs.celendi.xyz/legal/privacy) to read our Privacy Policy
+Please click [here](https://docs.celendi.xyz/policies/privacy) to read our Privacy Policy
 
 ## Suspension
 If you violate any Terms listed above, the "service" developers reserve the right to issue you a warning regarding the violation or immediately suspend your access to the Service with or without reasons, depending on the offense.
