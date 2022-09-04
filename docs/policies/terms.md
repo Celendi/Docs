@@ -2,7 +2,8 @@
 description: Celendi's Terms Of Service
 ---
 # Terms of Service
-
+!!! Danger "Warning"
+    This section is being redone. Expect it to change at any moment.
 ## Terms
 By using the "service", you immediately agree that you accept the Discord Terms of Service, and agree that your account can be suspended from using the "service" if you violate the Discord Terms of Service in any way.
 

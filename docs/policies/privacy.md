@@ -2,7 +2,8 @@
 description: Celendi's Privacy Policy
 ---
 # Privacy Policy
-
+!!! Danger "Warning"
+    This section is being redone. Expect it to change eventually.
 ## Introduction
 
 Last Updated: 12th August, 2022
