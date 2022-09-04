@@ -62,7 +62,7 @@ extra_css:
 nav:
   - Home: index.md
   - Configuration:
-    - DM's Module: configuration/dms.md
+    - DMs Module: configuration/dms.md
     - Logs Module: configuration/logs.md
     - Prefix Module: configuration/prefix.md 
     - Welcomer Module: configuration/welcomer.md
