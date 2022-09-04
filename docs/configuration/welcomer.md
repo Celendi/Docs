@@ -35,7 +35,6 @@ These are the tags that can be used in the welcomer
 | {target.tag} | Tag of the target. | Iliannnn#0001 |
 | {target.avatar} | Hash of the target's avatar. | a_c92deb6c3f7558f62caf2ba485c42087 |
 | {target.avatarURL} | Image URL of the target's avatar. | https://cdn.discordapp.com/avatars/597445640129085440/a_c92deb6c3f7558f62caf2ba485c42087.gif |
-<br>
 
 #### **Server Tags**
 | Tag      | Description | Output |
@@ -53,7 +52,6 @@ These are the tags that can be used in the welcomer
 | {server.ownerAvatar} | Avatar hash of the server's owner. | 7db60decd3a6109f48715a448639c6a6 |
 | {server.ownerAvatarURL} | Image URL of the avatar of the server's owner. | https://cdn.discordapp.com/avatars/785276955645313035/7db60decd3a6109f48715a448639c6a6.png |
 | {server.memberCount} | The amount of members in the server. | 39 |
-<br>
 
 ####  Action Tags
 | Tag     | Description | Output |
