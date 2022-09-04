@@ -77,8 +77,9 @@ nav:
   - Meme:
     - meme/drift.md
   - Policies:
-    - policies/privacy.md
     - policies/terms.md
+    - policies/privacy.md
+    
 
 
 
