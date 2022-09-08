@@ -28,8 +28,3 @@ This Term of Service is effective as of August 6th, 2022 and will remain in effe
 
 ## Privacy Policy
 Please click [here](https://docs.celendi.xyz/policies/privacy) to read our Privacy Policy
-
-## Suspension
-If you violate any Terms listed above, the "service" developers reserve the right to issue you a warning regarding the violation or immediately suspend your access to the Service with or without reasons, depending on the offense.
-
-While you have the right to appeal your suspension to the "service", we do not guarantee that the "service" providers will approve your appeal, and do not guarantee that you'll be 100% whitelisted from all the "service" features, you may be denied to access certain features of the "service" in respect with your prior blacklisted reasons.
