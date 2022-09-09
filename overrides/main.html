@@ -9,8 +9,9 @@
 
   <meta property="og:locale" content="en_US">
   <meta property="og:type" content="website">
-  <meta property="og:site_name" content="Celendi Documentation">
+  <meta property="og:site_name" content="CelendiDocs">
   <meta property="og:title" content="{{ title }}">
+  <meta property="author" content="{{ config.site_author}}">
   {% if page and page.meta and page.meta.description %}
     <meta property="og:description" content="{{ page.meta.description }}">
   {% elif config.site_description %}
