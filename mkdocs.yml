@@ -1,7 +1,7 @@
 site_name: CelendiDocs
 site_url: https://docs.celendi.xyz/
 site_description: Official documentation pages for Celendi 
-site_author: Celendi
+site_author: Team Celendi
 repo_url: https://github.com/celendi/docs
 repo_name: Celendi/Docs
 edit_uri: ""
@@ -14,18 +14,19 @@ theme:
   favicon: https://raw.githubusercontent.com/Celendi/Brand-Kit/main/Logos/Bot%20Logos/Celendi_RED.webp
   icon:
     repo: fontawesome/brands/github
+  
 
   palette:
     scheme: slate
     #primary: red # Not needed due to custom css
   features:
-    - header.autohide
     - navigation.instant
     - navigation.tracking
     - navigation.tabs
     - navigation.sections
     - toc.integrate
     - navigation.top
+    - content.tabs.link
     #- announce.dismiss
 
 plugins:
