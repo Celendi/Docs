@@ -10,8 +10,8 @@ copyright: Copyright © 2022 <a target="_blank" href="https://celendi.xyz" targe
 theme:
   name: material
   custom_dir: overrides
-  logo: https://raw.githubusercontent.com/Celendi/Brand-Kit/main/Logos/Bot%20Logos/Celendi_RED.webp
-  favicon: https://raw.githubusercontent.com/Celendi/Brand-Kit/main/Logos/Bot%20Logos/Celendi_RED.webp
+  logo: assets/logos/Celendi_RED.png
+  favicon: assets/logos/Celendi_RED.png
   icon:
     repo: fontawesome/brands/github
   
@@ -31,6 +31,10 @@ theme:
 
 plugins:
 - search
+- social:
+    cards_color:
+          fill: "#ef5552" 
+          text: "#FFFFFF"
 - minify:
     minify_html: true
     htmlmin_opts:
