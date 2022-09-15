@@ -31,10 +31,6 @@ theme:
 
 plugins:
 - search
-- social:
-    cards_color:
-          fill: "#ef5552" 
-          text: "#FFFFFF"
 - minify:
     minify_html: true
     htmlmin_opts:
