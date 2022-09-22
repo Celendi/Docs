@@ -8,7 +8,7 @@ Celendi is a multi-functional discord bot designed to be the only bot you need i
 
 **Useful links**
 
-| [Website](https://celendi.xyz) | [Invite link](https://celendi.xyz/invite) | [Donate](https://celendi.xyz/donate) | [Support server](https://celendi.xyz/discord) |
+| [Website](https://celendi.xyz) | [Invite link](https://celendi.xyz/invite) | [Donate](https://celendi.xyz/donate) | [Support server](https://celendi.xyz/discord) | [Status page](https://status.celendi.xyz/) |
 
 ## How do I read the documentation?
 
