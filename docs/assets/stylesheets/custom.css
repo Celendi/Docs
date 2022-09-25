@@ -93,3 +93,8 @@
 .md-footer-meta a:is(:focus,:hover) {
     color: #ef5552  !important;
 }
+
+/* Cookies Button */
+.md-button {
+    margin-right: 5px;
+}
