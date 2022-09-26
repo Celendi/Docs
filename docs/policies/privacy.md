@@ -5,4 +5,5 @@ description: Celendi's Privacy Policy
 !!! Danger "Warning"
     This section is being redone. Expect it to change eventually.
 
+> Last updated at 25 September, 2022
 
