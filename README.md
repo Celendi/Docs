@@ -6,7 +6,7 @@ This is the official documentation of Celendi, the multi-functional discord bot.
 ### Created with: 
   
  * JavaScript 
- * [Node JS](https://nodejs.org/en/)
+ * [Node.js](https://nodejs.org/en/)
  * [mkdocs-material](https://github.com/squidfunk/mkdocs-material)
 
 ### License Information
