@@ -1,7 +1,8 @@
 # CelendiDocs 
-
+<a href="https://status.celendi.xyz/api/badge/18/status?style=for-the-badge&label=CelendiDocs">
+  <img src=https://status.celendi.xyz/api/badge/18/status?style=for-the-badge&label=CelendiDocs>
 <a href="https://github.com/Celendi/Docs/blob/main/LICENSE">
-  <img src="https://img.shields.io/badge/license-GNU-brightgreen" align="right" />
+  <img src="https://img.shields.io/badge/license-GNU-brightgreen.svg?style=for-the-badge"  />
 </a>
 
 This is the official documentation of Celendi, the multi-functional discord bot. You can read all things about the bot here or if you need any help, u can look it up on the documentation! 
