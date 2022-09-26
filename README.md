@@ -1,6 +1,7 @@
 # CelendiDocs 
-<a href="https://status.celendi.xyz/api/badge/18/status?style=for-the-badge&label=CelendiDocs">
+<a href="https://status.celendi.xyz">
   <img src=https://status.celendi.xyz/api/badge/18/status?style=for-the-badge&label=CelendiDocs>
+</a>
 <a href="https://github.com/Celendi/Docs/blob/main/LICENSE">
   <img src="https://img.shields.io/badge/license-GNU-brightgreen.svg?style=for-the-badge"  />
 </a>
