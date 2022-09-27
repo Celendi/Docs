@@ -2,7 +2,7 @@
 description: Celendi's Privacy Policy
 ---
 # Privacy Policy
-!!! info
+!!! info ""
     Keep in mind this can change anytime, as required/needed.
 
 > Last updated at 25 September, 2022
