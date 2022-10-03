@@ -82,7 +82,6 @@ nav:
     - policies/privacy.md
     - policies/refund.md
     
-
 markdown_extensions:
 - markdown.extensions.admonition # Highlighted warning/info blocks
 - markdown.extensions.attr_list # Set custom HTML attributes {: }
