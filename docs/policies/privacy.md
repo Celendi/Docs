@@ -27,7 +27,7 @@ Celendi saves your data in a secured non-accessable database.
 
 ## When do we share data?
 
-Some commands require sharing command argument values provided by the user to a third-party API. No identifiable userinformation is shared unless the user provides it in an argument. Celendi will otherwise never share any user data.
+Some commands require sharing command argument values provided by the user to a third-party API. No identifiable user information is shared unless the user provides it in an argument. Celendi will otherwise never share any user data.
 
 We will never sell any data stored by Celendi whatsoever. Celendi does not share data unless needed for the functionality of the bot as stated above.
 
