@@ -6,7 +6,7 @@ description: Celendi's Refund Policy
 !!! warning ""
     Keep in mind this can change anytime, as required/needed.
 
-> Last updated at 25 September, 2022
+> Last updated & effective at 7 October, 2022
 
 In simple terms, we (Celendi) don't offer refunds, unless for legal reasons.
 
