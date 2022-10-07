@@ -1,7 +1,7 @@
 ---
 description: How to configure Celendi's Starboard
 ---
-# Welcomer Configuration
+# Starboard Configuration
 
 Set up, remove or manage the starboard in this server.
 !!! warning ""

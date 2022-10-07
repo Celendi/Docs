@@ -1,7 +1,7 @@
 ---
 description: How to configure Celendi's Allow Mods Feature
 ---
-# Allow Mods
+# Allow Mods Configuration
 
 Make a command executable by a user with a moderator role, bypassing the required permissions.
 !!! warning ""

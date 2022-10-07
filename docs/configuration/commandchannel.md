@@ -1,7 +1,7 @@
 ---
 description: How to configure Celendi's Command Channel Feature
 ---
-# Command Channel
+# Command Channel Configuration
 
 Setup channels where commands can be used.
 !!! warning ""
