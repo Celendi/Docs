@@ -19,6 +19,8 @@ theme:
     scheme: slate
     #primary: red # Not needed due to custom css.
   features:
+    - search.suggest
+    - search.share
     - navigation.instant
     - navigation.tracking
     - navigation.tabs
