@@ -1,10 +1,12 @@
 ---
 description: How to configure Celendi's DMs
 ---
-# DMs Module
+# DMs Configuration
+
 Toggle whether to send direct messages when someone is kicked/banned/warned or muted or change the message the should be sent to the user.
 !!! warning ""
     These commands require you to have the `MANAGE_GUILD` permission
+
 ## Commands
 
 | Usage | Example | Description |
@@ -18,4 +20,4 @@ Toggle whether to send direct messages when someone is kicked/banned/warned or m
 | dms message &lt;bans\|kicks\|mutes\|warns&gt; &lt;dm message...&gt; | ?dms message bans You have been yeeted from &#123;server.name&#125; for &#123;reason&#125; | Customize the message of what a specific action should send. |
 | dms message-reset &lt;bans\|kicks\|mutes\|warns&gt; | ?dms message-reset mutes | Reset the message of the action. |
 | dms panel | ?dms panel | View the dms panel. |
-| dms tags | ?dms tags | View the tags that you can use in the action messages. | 
+| dms tags | ?dms tags | View the tags that you can use in the action messages. |

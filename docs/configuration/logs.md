@@ -1,8 +1,8 @@
 ---
 description: How to configure Celendi's Logs
 ---
+# Logs Configuration
 
-# Logs Module
 Set, remove, disable or enable logs
 !!! warning ""
     These commands require you to have the `MANAGE_GUILD` permission
@@ -15,4 +15,4 @@ Set, remove, disable or enable logs
 | logs remove &lt;#channel\|id&gt; | ?logs remove 837029304117362708 | Remove logs for a specific channel. |
 | logs enable | ?logs enable | Enable logs. |
 | logs disable | ?logs disable | Disable logs. |
-| logs panel | ?logs panel | View the logs panel. |  
+| logs panel | ?logs panel | View the logs panel. |

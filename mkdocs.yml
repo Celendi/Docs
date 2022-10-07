@@ -5,7 +5,7 @@ site_author: Team Celendi
 #repo_url: https://github.com/celendi/docs # Disabled due to repo being private.
 #repo_name: Celendi/Docs
 #edit_uri: ""
-copyright: Copyright © 2022 <a target="_blank" href="https://celendi.xyz" target="_blank" rel="noopener">Celendi</a>  | Documentation Distributed under <a target="_blank" href="https://github.com/Celendi/Docs/blob/main/LICENSE" target="_blank" rel="noopener">GNU</a> | <a href="#__consent">Change Cookie Settings</a>
+copyright: Copyright © 2022 <a target="_blank" href="https://celendi.xyz" target="_blank" rel="noopener">Celendi</a>  | Docs Distributed under <a target="_blank" href="https://github.com/Celendi/Docs/blob/main/LICENSE" target="_blank" rel="noopener">GNU v3.0</a> | <a href="#__consent">Change Cookie Settings</a>
 
 theme:
   name: material
@@ -15,7 +15,6 @@ theme:
   icon:
     repo: fontawesome/brands/github
   
-
   palette:
     scheme: slate
     #primary: red # Not needed due to custom css.
@@ -63,20 +62,26 @@ extra_css:
 nav:
   - Home: index.md
   - Configuration:
-    - DMs Module: configuration/dms.md
-    - Logs Module: configuration/logs.md
-    - Prefix Module: configuration/prefix.md 
-    - Welcomer Module: configuration/welcomer.md
+    - Allow Mods: configuration/allowmods.md
+    - Command Configuration: configuration/commandcfg.md
+    - Command Channel: configuration/commandchannel.md
+    - DMs: configuration/dms.md
+    - Logs: configuration/logs.md
+    - Lounge: configuration/lounge.md
+    - Mod Role: configuration/modrole.md
+    - Prefix: configuration/prefix.md
+    - Starboard: configuration/starboard.md
+    - Welcomer: configuration/welcomer.md
   - Information:
-    - Information Module: information/info.md
+    - Information: information/info.md
   - Moderation:
-    - moderation/warn.md
+    - moderation/moderation.md
   - Anime:
     - anime/anime.md
   - Fun: 
-    - fun/8ball.md
+    - fun/fun.md
   - Meme:
-    - meme/drift.md
+    - meme/meme.md
   - Policies:
     - policies/terms.md
     - policies/privacy.md
