@@ -2,9 +2,9 @@ site_name: CelendiDocs
 site_url: https://docs.celendi.xyz/
 site_description: Official documentation pages for Celendi 
 site_author: Team Celendi
-#repo_url: https://github.com/celendi/docs # Disabled due to repo being private.
-#repo_name: Celendi/Docs
-#edit_uri: ""
+repo_url: https://github.com/Celendi/Docs
+repo_name: Celendi/Docs
+edit_uri: ""
 copyright: Copyright © 2022 <a target="_blank" href="https://celendi.xyz" target="_blank" rel="noopener">Celendi</a>  | Docs Distributed under <a target="_blank" href="https://github.com/Celendi/Docs/blob/main/LICENSE" target="_blank" rel="noopener">GNU v3.0</a> | <a href="#__consent">Change Cookie Settings</a>
 
 theme:
