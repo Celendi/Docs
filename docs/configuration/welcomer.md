@@ -23,8 +23,11 @@ Manage the welcome/leave channel, message and role
 | welcome card background remove | ?welcome card background remove | Remove the welcome/leave card's background image. |
 | welcome card background view | ?welcome card background view | View the welcome/leave card. |
 | welcome tags | ?welcome tags | List all the tags you can use in the welcome/leave message/embed. |
-| welcome role &lt;set\|remove&gt; &lt;&#64;;role\|id&gt;| ?welcome role remove 840320567893688400 | Set/remove the welcome/leave role. |
+| welcome role &lt;set\|remove&gt; &lt;&#64;role\|id&gt;| ?welcome role remove 840320567893688400 | Set/remove the welcome/leave role. |
 | welcome panel | ?welcome panel | Open the welcome/leave panel. |
+
+!!! info
+    The recommended background image size is 1024x500. The image will be resized to fit the background.
 
 ## Tags
 
@@ -37,7 +40,7 @@ These are the tags that can be used in the welcomer
 
 | Tag      | Description | Output |
 | :------- | :---------- | :------- |
-| &#123;target&#125; | Mention of the target. | &#64;;Iliannnn |
+| &#123;target&#125; | Mention of the target. | &#64;Iliannnn |
 | &#123;target.id&#125; | ID of the target. | 597445640129085440 |
 | &#123;target.username&#125; | Username of the target. | Iliannnn |
 | &#123;target.discriminator&#125; | Discriminator of the target. | 0001 |
@@ -54,7 +57,7 @@ These are the tags that can be used in the welcomer
 | &#123;server.icon&#125; | Icon hash of the server. | a_50611c4d825a46db3195224498757205 |
 | &#123;server.iconURL&#125; | Image URL of the server's icon. | <https://cdn.discordapp.com/icons/837028015706996806/a_50611c4d825a46db3195224498757205.gif> |
 | &#123;server.verificationLevel&#125; | Level of the server. | HIGH |
-| &#123;server.owner&#125; | Mention of the server's owner. | &#64;;Zyztem |
+| &#123;server.owner&#125; | Mention of the server's owner. | &#64;Zyztem |
 | &#123;server.ownerId&#125; | Id of the server's owner. | 785276955645313035 |
 | &#123;server.ownerName&#125; | Name of the server's owner. | Zyztem |
 | &#123;server.ownerDiscriminator&#125; | Discriminator of the server's owner. | 1992 |
