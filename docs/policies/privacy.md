@@ -17,7 +17,7 @@ Celendi only starts collecting data when the user accepts the Terms & Policy by 
 When the user runs any of Celendi's or commands or gets interacted with Celendi in any way, they consent to the following data being stored to allow for Celndi to function, as well as for safety, security, support and legal purposes:
 
 * Server ID (Where Applicable)
-* Channel Id (Where Applicable)
+* Channel ID (Where Applicable)
 * User ID
 * Information given by the user in arguments
 

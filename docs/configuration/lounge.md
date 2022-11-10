@@ -13,7 +13,7 @@ Create or configure lounge channels.
 | :--- | :--- | :--- |
 | lounge create &lt;#channel\|id&gt; &lt;id&gt; &#91;name...&#93; | ?lounge create 1017876201181806772 Create A Lounge | Create a lounge channel. |
 | lounge delete &lt;#channel\|id&gt; | ?lounge delete #Create Your Lounge | Delete a lounge channel. |
-| lounge maxusers &lt;#channel\|id&gt; &lt;number&lt; | ?lounge maxusers 1017876201181806772 3 | Set the maximum number of users a lounge channel can have. |
+| lounge maxusers &lt;#channel\|id&gt; &lt;number&gt; | ?lounge maxusers 1017876201181806772 3 | Set the maximum number of users a lounge channel can have. |
 | lounge name &lt;#channel\|id&gt; &lt;name...&gt; | ?lounge name #Create your lounge {target.username}'s Lounge | Set the name of a lounge channel. |
 | lounge tags | ?lounge tags | List all tags that can be used in the lounge channel names. |
 | lounge list | ?lounge tags | List all lounge channels. |
