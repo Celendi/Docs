@@ -14,10 +14,11 @@ Celendi only starts collecting data when the user accepts the Terms & Policy by 
 
 ## What data gets collected
 
-When the user runs any of Celendi's or commands or gets interacted with Celendi in any way, they consent to the following data being stored to allow for Celndi to function, as well as for safety, security, support and legal purposes:
+When the user runs any of Celendi's or commands or gets interacted with Celendi in any way, they consent to the following data being stored to allow for Celendi to function, as well as for safety, security, support and legal purposes:
 
 * Server ID (Where Applicable)
 * Channel ID (Where Applicable)
+* Role ID (Where Applicable)
 * User ID
 * Information given by the user in arguments
 
@@ -37,7 +38,7 @@ You can request to us at anytime, at any moment to delete your data from our dat
 
 If you are blacklisted from our discord bot, you are not able to request a data deletion.
 
-## Modifications and Questions
+## Modifications and questions
 
 We may modify our privacy policy when it's necessary or required without notice.
 If you have any question related to the discord bot about our privacy policy or your data, you can reach out to hello@celendi.xyz or throughout our support server.
