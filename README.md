@@ -18,4 +18,4 @@ This is the official documentation of Celendi, the multi-functional discord bot.
 
 Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/> Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.
 
-### Copyright © 2020 - 2022 Celendi
+### Copyright © 2020 - 2022 Team Celendi
