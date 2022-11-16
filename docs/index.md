@@ -8,7 +8,7 @@ description: How to get started with Celendi, learn about Celendi commands and g
 
 What is Celendi you say? Celendi is a multipurpose discord bot designed to be the only bot you need in your server, with easy to use and well designed commands for you and your friends to enjoy, regular updates and new features added to the bot every month, active support via our support server, and most of all, we offer a lot of features for a low low price of free!  
 
-Team Celendi is the team of friends that own Celendi, which consists of @Zyztem, @Jqstln & @Iliannnn, which work hard to bring the best experence that you can with Celendi, by supporting users who need help, fixing bugs, coding various parts of Celendi (such as these Docs 😊), taking user suggestions for new commands, or just hanging out with users and each other. We want Celendi to be the best possible bot for your needs.
+Team Celendi is the team of friends that own Celendi, which consists of @Zyztem, @Jqstln & @Iliannnn, which work hard to bring the best experience that you can with Celendi, by supporting users who need help, fixing bugs, coding various parts of Celendi (such as these docs 😊), taking user suggestions for new commands, or just hanging out with users and each other. We want Celendi to be the best possible bot for your needs.
 
 ## How do I get around the Docs?
 
@@ -33,4 +33,4 @@ You need help with something in Celendi? Found a bug that you would like to repo
 Checkout [FAQ](https://docs.celendi.xyz/troubleshooting/faq), [Troubleshooting](https://docs.celendi.xyz/troubleshooting) & [Known Issues](https://docs.celendi.xyz/troubleshooting/known-issues)
 
 There are various places to get in touch with us,  
-Such as our [Support Server](https://celendi.xyz/support), where our support team awaits to support you with anything you need help with in Celendi, and where you can also report Bugs, suggest new commands you would like to see, and hangout with us! We also help with donation issues here, if our donation platform [Ko-Fi](https://ko-fi.com/celendibot) isnt working right for you, we would appreciate it if you joined the [Support Server](https://celendi.xyz/support) and informed us so we can get it fixed for you!
+Such as our [Discord Server](https://celendi.xyz/support), where our support team awaits to support you with anything you need help with in Celendi, and where you can also report Bugs, suggest new commands you would like to see, and hangout with us! We also help with donation issues here, if our donation platform [Ko-Fi](https://ko-fi.com/celendibot) isnt working right for you, we would appreciate it if you joined the [Support Server](https://celendi.xyz/support) and informed us so we can get it fixed for you!
