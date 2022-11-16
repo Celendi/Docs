@@ -8,7 +8,7 @@ description: Celendi's Terms Of Service
 
 > Last updated & effective at 7 October, 2022
 
-Us at Celendi care about you and the rest, so that's why we're writing this. Please
+We at Celendi care about you and others, so that’s why we’re writing this. Please
 read the following information to learn more about our Terms of Service.
 
 We reserve the right to revoke access to the Service at any time for any reason.  
