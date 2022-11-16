@@ -8,7 +8,7 @@ description: Celendi's Refund Policy
 
 > Last updated & effective at 7 October, 2022
 
-In simple terms, we (Celendi) don't offer refunds, unless for legal reasons.
+In simple terms, we (Team Celendi) don't offer refunds, unless for legal reasons.
 
 Legal reasons would consist of and require proof:
 
