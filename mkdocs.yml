@@ -75,15 +75,15 @@ nav:
     - Starboard: configuration/starboard.md
     - Welcomer: configuration/welcomer.md
   - Information:
-    - Information: information/info.md
+    - Information: information/
   - Moderation:
-    - moderation/moderation.md
+    - moderation/
   - Anime:
-    - anime/anime.md
+    - anime/
   - Fun: 
-    - fun/fun.md
+    - fun/
   - Meme:
-    - meme/meme.md
+    - meme/
   - Policies:
     - policies/terms.md
     - policies/privacy.md
