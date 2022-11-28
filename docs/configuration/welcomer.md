@@ -14,7 +14,7 @@ Manage the welcome/leave channel, message and role
 | welcome channel &lt;set\|remove&gt; &lt;#channel\|id&gt; | ?welcome channel set #general | Set/remove the welcome/leave channel. |
 | welcome message set &lt;#channel\|id&gt; &lt;message...&gt; | ?welcome message set 890590927171764235 Hello! Welcome to Celendi! | Set the welcome/leave message. |
 | welcome message remove &lt;#channel\|id&gt; | ?welcome message remove #general | Remove the welcome/leave message. |
-| welcome embed set &lt;#channel\|id&gt; &lt;embed object&gt; | ?welcome embed set 890590927171764235 <br>&#123;title: '&#123;user&#125; joined the server!'&#125; | Set the welcome/leave embed by specifying a raw embed object. |
+| welcome embed set &lt;#channel\|id&gt; &lt;embed object&gt; | ?welcome embed set 890590927171764235 &#123;title: '&#123;user&#125; joined the server!'&#125; | Set the welcome/leave embed by specifying a raw embed object. |
 | welcome embed remove &lt;#channel\|id&gt; | ?welcome embed remove #general | Remove the welcome/leave embed. |
 | welcome card set &lt;#channel\|id&gt; | ?welcome card set #general | Set the welcome/leave card to be sent in the welcome message's attachments.|
 | welcome card remove &lt;#channel\|id&gt; | ?welcome card remove #general | Remove the welcome/leave card from the welcome message's attachments. |
