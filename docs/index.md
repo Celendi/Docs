@@ -1,6 +1,7 @@
 ---
 title: Home
 description: How to get started with Celendi, learn about Celendi commands and get an overview about the bot!
+ᴴₒᴴₒᴴₒ: true
 ---
 # Celendi Docs
 
@@ -16,7 +17,7 @@ Each category of commands has their own page which can be found in the navigatio
 
 ### Understanding how Celendi's commands work
 
-You may be asking yourself how our commands work, and why our example commands in our various categories have &lt; & &gt; and [ & ] in them, those are what we like to call arguments, and this is how they work. 
+You may be asking yourself how our commands work, and why our example commands in our various categories have &lt; & &gt; and [ & ] in them, those are what we like to call arguments, and this is how they work.  
 
 **Optional**: \[foo\] means that this argument can be ignored \(this is usually for clearing settings or for using yourself/the current channel\).  
 **Required**: &lt;foo&gt; means that you _must_ use this argument for the command to work.  
