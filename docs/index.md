@@ -8,7 +8,7 @@ description: How to get started with Celendi, learn about Celendi commands and g
 
 What is Celendi you say? Celendi is a multipurpose discord bot designed to be the only bot you need in your server, with easy to use and well designed commands for you and your friends to enjoy, regular updates and new features added to the bot every month, active support via our support server, and most of all, we offer a lot of features for a low low price of free!  
 
-Team Celendi is the team of friends that own Celendi, which consists of @Zyztem, @Jqstln & @Iliannnn, which work hard to bring the best experience that you can with Celendi, by supporting users who need help, fixing bugs, coding various parts of Celendi (such as these docs 😊), taking user suggestions for new commands, or just hanging out with users and each other. We want Celendi to be the best possible bot for your needs.
+Team Celendi is the team of friends that own Celendi, which consists of @Zyztem, @Jqstln & @Iliannnn, who worked hard to bring the best experience that you can with Celendi, by supporting users who need help, fixing bugs, coding various parts of Celendi (such as these docs 😊), taking user suggestions for new commands, or just hanging out with users and each other. We want Celendi to be the best possible bot for your needs.
 
 ## How do I get around the Docs?
 

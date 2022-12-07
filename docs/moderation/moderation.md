@@ -3,10 +3,10 @@ description: How to use Celendi's Moderation Commands
 ---
 # Moderation Commands
 
-Ban your friends for no reason at all!
+Keep your server secure with these features.
 
 !!! warning ""
-    These commands require you to have the appropiate permissions
+    These commands require you to have the appropriate permissions
 
 ## Commands
 
