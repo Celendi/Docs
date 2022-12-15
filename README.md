@@ -14,6 +14,13 @@ This is the official documentation of Celendi, the multi-functional discord bot.
 * CSS
 * [mkdocs-material](https://github.com/squidfunk/mkdocs-material)
 
+## To be done
+- [ ] Languages in docs (e.g, Dutch & French & Spanish, etc)
+- [ ] Rework the base of the docs
+- [ ] Caching
+- [ ] Research into better mkdocs plugins/extensions
+- [ ] Make it possible so it can use Python 3.11
+
 ## License Information
 
 Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/> Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.
