@@ -1,5 +1,6 @@
 ---
 description: How to use Celendi's Anime Commands
+ᴴₒᴴₒᴴₒ: true
 ---
 # Anime Commands
 

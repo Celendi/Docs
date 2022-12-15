@@ -1,5 +1,6 @@
 ---
 description: How to use Celendi's Info Commands
+ᴴₒᴴₒᴴₒ: true
 ---
 # Information Commands
 
