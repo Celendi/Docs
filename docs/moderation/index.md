@@ -1,5 +1,6 @@
 ---
 description: How to use Celendi's Moderation Commands
+ᴴₒᴴₒᴴₒ: true
 ---
 # Moderation Commands
 
