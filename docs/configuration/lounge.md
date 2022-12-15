@@ -1,5 +1,6 @@
 ---
 description: How to configure Celendi's Lounge feature
+ᴴₒᴴₒᴴₒ: true
 ---
 # Lounge Configuration
 

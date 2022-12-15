@@ -1,5 +1,6 @@
 ---
 description: How to configure Celendi's DMs
+ᴴₒᴴₒᴴₒ: true
 ---
 # DMs Configuration
 

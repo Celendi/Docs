@@ -1,5 +1,6 @@
 ---
 description: How to configure Celendi's Allow Mods Feature
+ᴴₒᴴₒᴴₒ: true
 ---
 # Allow Mods Configuration
 

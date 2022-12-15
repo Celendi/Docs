@@ -1,5 +1,6 @@
 ---
 description: How to configure Celendi's Logs
+ᴴₒᴴₒᴴₒ: true
 ---
 # Logs Configuration
 

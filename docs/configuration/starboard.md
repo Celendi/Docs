@@ -1,5 +1,6 @@
 ---
 description: How to configure Celendi's Starboard
+ᴴₒᴴₒᴴₒ: true
 ---
 # Starboard Configuration
 

@@ -1,5 +1,6 @@
 ---
 description: How to configure Celendi's Welcomer
+ᴴₒᴴₒᴴₒ: true
 ---
 # Welcomer Configuration
 
