@@ -43,6 +43,10 @@
     color: #fff;
 }
 
+.md-ellipsis{
+    margin-left:-22.5px;
+}
+
 /* Primary navigation */
 
 .md-tabs {
