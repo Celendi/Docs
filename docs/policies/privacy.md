@@ -8,7 +8,7 @@ description: Celendi's Privacy Policy
     Keep in mind this can change anytime, as required/needed.
 > Last updated & effective at 7 October, 2022
 
-We at Celendi care about you and others, so that's why we're writing this. Please
+We at Team Celendi care about your Privacy, so this was written for our users to learn how we respect it. Please
 read the following information to learn more about our Privacy Policy.
 
 Celendi only starts collecting data when the user accepts the Terms & Policy by using it for the first time or when the user gets interacted with Celendi in any way, for example getting warned.

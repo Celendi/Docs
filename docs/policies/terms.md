@@ -9,8 +9,7 @@ description: Celendi's Terms Of Service
 
 > Last updated & effective at 7 October, 2022
 
-We at Celendi care about you and others, so that’s why we’re writing this. Please
-read the following information to learn more about our Terms of Service.
+We at Team Celendi have written this Terms of Service in order to keep the bot running smoothly, and to prevent the bot from getting abused. Please read the following information to learn more about our Terms of Service.
 
 We reserve the right to revoke access to the Service at any time for any reason.  
 While using the Service, you also agree to obey the rules of the Platform.
