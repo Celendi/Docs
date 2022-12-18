@@ -7,7 +7,7 @@ description: Celendi's Terms Of Service
 !!! warning ""
     Keep in mind this can change anytime, as required/needed.
 
-> Last updated & effective at 7 October, 2022
+> Last updated & effective at 18 December, 2022
 
 We at Team Celendi have written this Terms of Service in order to keep the bot running smoothly, and to prevent the bot from getting abused. Please read the following information to learn more about our Terms of Service.
 
