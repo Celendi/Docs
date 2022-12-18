@@ -6,7 +6,7 @@ description: Celendi's Privacy Policy
 
 !!! warning ""
     Keep in mind this can change anytime, as required/needed.
-> Last updated & effective at 7 October, 2022
+> Last updated & effective at 18 December, 2022
 
 We at Team Celendi care about your Privacy, so this was written for our users to learn how we respect it. Please
 read the following information to learn more about our Privacy Policy.
