@@ -7,12 +7,16 @@ description: Celendi's Refund Policy
 !!! warning ""
     Keep in mind this can change anytime, as required/needed.
 
-> Last updated & effective at 7 October, 2022
+> Last updated & effective at 12 December, 2022
 
-In simple terms, we (Team Celendi) don't offer refunds, unless for legal reasons.
+We at Team Celendi have a strict refund policy, any of these reasons would be valid for a refund. And other refund reasons not listed here may be valid.
 
-Legal reasons would consist of and require proof:
+The Reasons below would consist of and require proof, and have a 24 hour time limit:
+
+- Excessive amounts of money spent ($50+)
+
+The Reasons below would consist of and require proof, and dont have a time limit:
 
 - Fraud
-- Age restrictions (Such as being under 18. And not having parent approval, which is fraud.)
-- The Government gets involved
+- Under age
+- Goverment involvement
