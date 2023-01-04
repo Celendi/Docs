@@ -1,6 +1,5 @@
 ---
 description: Celendi's Terms Of Service
-ᴴₒᴴₒᴴₒ: true
 ---
 # Terms of Service
 

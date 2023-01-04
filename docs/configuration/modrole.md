@@ -1,6 +1,5 @@
 ---
 description: How to configure Celendi's Mod Role
-ᴴₒᴴₒᴴₒ: true
 ---
 # Mod Role Configuration
 

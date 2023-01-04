@@ -1,6 +1,5 @@
 ---
 description: How to use Celendi's Fun Commands
-ᴴₒᴴₒᴴₒ: true
 ---
 # Fun Commands
 

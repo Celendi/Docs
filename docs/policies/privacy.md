@@ -1,6 +1,5 @@
 ---
 description: Celendi's Privacy Policy
-ᴴₒᴴₒᴴₒ: true
 ---
 # Privacy Policy
 

@@ -1,7 +1,6 @@
 ---
 title: Home
 description: How to get started with Celendi, learn about Celendi commands and get an overview about the bot!
-ᴴₒᴴₒᴴₒ: true
 ---
 # Celendi Docs
 

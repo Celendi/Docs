@@ -1,6 +1,5 @@
 ---
 description: How to configure Celendi's Command Channel Feature
-ᴴₒᴴₒᴴₒ: true
 ---
 # Command Configuration
 

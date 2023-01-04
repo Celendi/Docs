@@ -1,6 +1,5 @@
 ---
 description: Celendi's Refund Policy
-ᴴₒᴴₒᴴₒ: true
 ---
 # Refund Policy
 

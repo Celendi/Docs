@@ -1,6 +1,5 @@
 ---
 description: How to use Celendi's Memes Commands
-ᴴₒᴴₒᴴₒ: true
 ---
 # Meme Commands
 
