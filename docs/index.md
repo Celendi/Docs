@@ -30,7 +30,7 @@ Additionally, the bot uses what are called _converters_ which makes specifying r
 
 You need help with something in Celendi? Found a bug that you would like to report? This is the section for you!
 
-Checkout [FAQ](https://docs.celendi.xyz/troubleshooting/faq), [Troubleshooting](https://docs.celendi.xyz/troubleshooting) & [Known Issues](https://docs.celendi.xyz/troubleshooting/known-issues)
+Checkout [FAQ](https://docs.celendi.gg/troubleshooting/faq), [Troubleshooting](https://docs.celendi.gg/troubleshooting) & [Known Issues](https://docs.celendi.gg/troubleshooting/known-issues)
 
 There are various places to get in touch with us,  
-Such as our [Discord Server](https://celendi.xyz/support), where our support team awaits to support you with anything you need help with in Celendi, and where you can also report Bugs, suggest new commands you would like to see, and hangout with us! We also help with donation issues here, if our donation platform [Ko-Fi](https://ko-fi.com/celendibot) isnt working right for you, we would appreciate it if you joined the [Support Server](https://celendi.xyz/support) and informed us so we can get it fixed for you!
+Such as our [Discord Server](https://celendi.gg/support), where our support team awaits to support you with anything you need help with in Celendi, and where you can also report Bugs, suggest new commands you would like to see, and hangout with us! We also help with donation issues here, if our donation platform [Ko-Fi](https://ko-fi.com/celendibot) isnt working right for you, we would appreciate it if you joined the [Support Server](https://celendi.gg/support) and informed us so we can get it fixed for you!

@@ -41,6 +41,6 @@ If you are blacklisted from our discord bot, you are not able to request a data 
 ## Modifications and questions
 
 We may modify our privacy policy when it's necessary or required without notice.
-If you have any question related to the discord bot about our privacy policy or your data, you can reach out to hello@celendi.xyz or throughout our support server.
+If you have any question related to the discord bot about our privacy policy or your data, you can reach out to hello@celendi.gg or throughout our support server.
 
 Please also read the Discord privacy policy at <https://discord.com/privacy>
