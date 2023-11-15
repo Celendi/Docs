@@ -12,7 +12,7 @@ Team Celendi is the team of friends that own Celendi, which consists of @Zyztem,
 
 ## How do I get around the Docs?
 
-Each category of commands has their own page which can be found in the navigation bar, You can also search for spicific commands using the search function built into the Docs.
+Each category of commands has their own page which can be found in the navigation bar, You can also search for specific commands using the search function built into the Docs.
 
 ### Understanding how Celendi's commands work
 
