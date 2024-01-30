@@ -20,6 +20,7 @@ This is the official documentation of Celendi, the multi-functional discord bot.
 - [ ] Caching
 - [ ] Research into better mkdocs plugins/extensions
 - [ ] Make it possible so it can use Python 3.11
+- [ ] Light mode switch
 
 ## License Information
 
